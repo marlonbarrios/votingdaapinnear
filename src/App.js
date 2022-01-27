@@ -54,7 +54,7 @@ export default function App() {
         <Route exact path='/PollingStation'>
           <PollingStation />
         </Route>
-        <Route exact path='/NewPoll'>
+        <Route path='https://61f2225ef80fc133be9d5572--adoring-borg-e9a7f7.netlify.app/NewPoll/NewPoll'>
           <NewPoll />
         </Route>
       </Switch>
